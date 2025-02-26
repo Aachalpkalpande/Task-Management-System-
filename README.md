@@ -1,4 +1,4 @@
-# Task-Management-System-
+# Task-Management-System Core Java Project
 
 Project Overview:
 In today's fast-paced work environment, managing tasks and projects efficiently is crucial for productivity and success. Our Task Management System aims to provide a simple, intuitive, and effective solution for individuals and teams to manage their tasks and projects.
